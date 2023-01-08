@@ -1,0 +1,74 @@
+.header--image {
+    height: 400px;
+}
+
+.header--name {
+    color: white;
+    margin: 21px 0 0px 0;
+}
+
+.header--job {
+    color: goldenrod;
+    margin: 6.19px 0 0 0;
+}
+
+.website {
+    margin: 9px 0 0 0;
+    color: #F5F5F5;
+    font-weight: 400;
+    font-size: 10.24px;
+    text-align: center;
+}
+
+.header--links {
+    margin: 15px 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header--links a {
+    width: 115px;
+    height: 34px;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+.header--links p {
+    margin-left: 9px;
+}
+
+.header--mail {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    box-sizing: border-box;
+    color: #374151;
+    text-decoration: none;
+}
+
+.header--mail img {
+width: 12.8px;
+height: 9.6px;
+}
+
+.header--linkedin {
+    margin-left: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5093E2;
+    color: black;
+    text-decoration: none;
+}
+
+.header--linkedin img {
+width: 13.3px;
+height: 13.3px;
+}
+
+
+
+
